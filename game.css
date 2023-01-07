@@ -1,0 +1,53 @@
+body
+{
+	background: rgb(230, 173, 221);
+}
+
+	.login_div1 , .login_div2
+	{
+		background:azure;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 30px;
+	border-radius: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: hsl(0, 0%, 100%);
+border-radius: 10px;
+border-top: 10px solid #4491aa;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#btn
+{
+	width:10%;
+	height:10%;
+	border-radius: 30px;
+}
+#div1
+{
+border-radius: 30px;
+height: 200px;
+}
+#div2
+{
+border-radius: 30px;
+height: 200px;
+}
